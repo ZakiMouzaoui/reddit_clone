@@ -1,0 +1,43 @@
+{
+  "name": "reddit_clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/open-sans": "^5.0.9",
+    "@fontsource/raleway": "^5.0.8",
+    "@react-query-firebase/auth": "^1.0.0-dev.2",
+    "@react-query-firebase/firestore": "^1.0.0-dev.7",
+    "dompurify": "^3.0.5",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.18",
+    "firebase": "^9.0.1",
+    "framer-motion": "^10.16.0",
+    "jodit-react": "^1.3.39",
+    "next": "13.4.18",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-drag-drop-files": "^2.3.10",
+    "react-fast-compare": "^3.2.2",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.10.1",
+    "react-query": "^3.39.3",
+    "react-share-social": "^0.1.55",
+    "react-simple-image-slider": "^2.4.1",
+    "recoil": "^0.7.7",
+    "timeago.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "encoding": "^0.1.13"
+  }
+}
